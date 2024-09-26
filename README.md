@@ -141,5 +141,3 @@ In order to update transitive dependencies, please exclude the vulnerable transi
   <version>2.7</version>
 </dependency>
 ```
-#   a e m - p r o j e c t - a r c h e t y p e - - - t e c h c h e f z  
- 
